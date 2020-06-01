@@ -1,0 +1,1344 @@
+Direction: bidirectional
+Lex: "καμία αύξηση"
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καμία ύποπτη αλλαγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καμία σημαντική αλλαγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καμία αλλαγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καμία αλλαγή διαστήματος
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καμία οριστική αλλαγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καμία σημαντική αλλαγή διαστήματος
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: δεν επεκτείνεται
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: δεν προκαλεί
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: όχι αποστράγγιση
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: δεν είναι βέβαιο εάν
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: δεν είναι βέβαιο ότι το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: gram αρνητικό
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: χωρίς δυσκολία
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: όχι κατ 'ανάγκη
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: όχι μόνο
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: forward
+Lex: απουσία
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν μπορεί
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν μπορεί να δει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: ελέγχεται για το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: απορρίφθηκε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: απορρίπτει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρνήθηκε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρνείται
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: άρνηση
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αξιολόγηση για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποτυγχάνει να αποκαλύψει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρνητικό για το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: ποτέ δεν ανέπτυξε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν είχε ποτέ
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: όχι
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: όχι ανώμαλη
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: καμία αιτία του
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν παράπονα του
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: κανένα στοιχείο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν νέα στοιχεία
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: κανένα άλλο στοιχείο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν στοιχεία που να υποδεικνύουν
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν ευρήματα του
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν στοιχεία που να δείχνουν
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν μαστογραφικές ενδείξεις
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: κανένα νέο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν ραδιογραφικά στοιχεία
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: κανένα σημάδι του
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: καμία σημαντική
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν υπάρχουν ενδείξεις
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: καμία πρόταση από το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: κανένα ύποπτο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: όχι
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν εμφανίζεται
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν εκτιμάτε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν σχετίζεται με το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν παραπονείται για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν επιδεικνύουν
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν παρουσιάζουν
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν αισθάνομαι
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν είχε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν έχετε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν γνωρίζω
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν είναι γνωστό ότι έχει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν αποκαλύπτει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δεν βλέπετε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: να μην είναι
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: ο ασθενής δεν ήταν
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αντί
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επιλυθεί
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: δοκιμή για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: για να αποκλείσετε το στοιχείο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μη αξιοσημείωτη για το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς στοιχεία
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς αποδεικτικά στοιχεία
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς ένδειξη
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: χωρίς σημάδι του
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείει το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον απαγορεύει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την εξουσία
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: καθορίζει τον ασθενή από το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείει το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον κυβερνά για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την εξουσία για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: καθορίζει τον ασθενή για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλεισμός
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον εξουσίασε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την απέκλεισε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: έκρινε τον ασθενή έξω
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλεισμένη για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον έκλεισε για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την έκλεισε για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: έκρινε τον ασθενή έξω για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: έκλεισε κατά
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον απέκλεισε ενάντια στο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την απέκλεισε ενάντια σε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: διέταξε τον ασθενή από
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: απέκλεισε το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: απέκλεισε το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: απέκλεισε το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον διέψευσε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την διέψευσε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: διέταξε τον ασθενή από το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον διέταξε για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την διέταξε για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον διέψευσε ενάντια στο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: την διέψευσε ενάντια σε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: διέταξε τον ασθενή για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: διέταξε τον ασθενή από
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλείσει το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλείσει το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλείσει το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να τον αποβάλει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να την αποκλείσει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλείσει τον ασθενή
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να τον αποβάλει για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να την αποκλείσει για την
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να κυβερνήσει την πατίνα έξω για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να τον αποκλείσει ενάντια σε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να την αποκλείσει ενάντια σε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να κυβερνήσει την ταινία από το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκές για να αποκλειστεί το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να τον αποβάλει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να την αποκλείσει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να αποκλείσει τον ασθενή
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκές να αποκλειστεί το ενδεχόμενο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκή για να τον αποβάλει για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: κατάλληλη για να την αποκλείσει για την
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να αποκλείσει τον ασθενή για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να αποκλείσει τον ασθενή από
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκές για να αποκλειστεί το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρκεί να τον αποκλείσει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκή για να την αποκλείσει
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να αποκλείσει τον ασθενή από το
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκές για να αποκλειστεί το ενδεχόμενο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρκετό για να τον αποβάλει για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρκεί να αποκλείσει την
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να αποκλείσει τον ασθενή για
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκές για να αποκλειστεί το ενδεχόμενο
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκή για να τον αποτρέψει από
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αρκεί να την αποκλείσει από την
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: επαρκής για να αποκλείσει τον ασθενή από
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλεισμός
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείστε τον
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείστε την
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείστε τον ασθενή
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείστε την επιλογή
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: τον απαγορεύει για
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείστε την για
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αποκλείστε την προεξοχή για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: πρέπει να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: πρέπει να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: θα αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: μπορεί να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: πρέπει να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: πρέπει να αποκλειστεί για το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: forward
+Lex: αυτό που πρέπει να αποκλειστεί είναι το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: απίθανη
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: δωρεάν
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: εξαιρέθηκε
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: εξαιρείται
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: αποκλείονται
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: έχουν αποκλειστεί
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: έχει αποκλειστεί
+Regex: ''
+Type: DEFINITE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: δεν αποκλείει το
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: δεν αποκλείεται
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: δεν αποκλείεται
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: αποκλείεται
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: πρέπει να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: πρέπει να αποκλεισθεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: μπορεί να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: μπορεί να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: μπορεί να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: θα αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: μπορεί να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: πρέπει να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: backward
+Lex: πρέπει να αποκλειστεί
+Regex: ''
+Type: PROBABLE_NEGATED_EXISTENCE
+---
+Direction: bidirectional
+Lex: αλλά
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ωστόσο
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: παρόλα αυτά
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ακόμα
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αν και
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αν και
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ακόμα
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: εκτός από το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: εκτός από
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: εκτός από το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: δευτερογενής σε
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως πηγή της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως λόγο της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καθώς η αιτιολογία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως την προέλευση του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτία για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως πηγή για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως λόγος για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καθώς η αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως προέλευση για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα πηγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτιολογία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα προέλευση του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα πηγή για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύον λόγος για την
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα προέλευση για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως πηγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως λόγο της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτιολογία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτία για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως πηγή για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως λόγος για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα πηγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύον λόγο του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτιολογία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα προέλευση
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα πηγή για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύον λόγο για την
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα προέλευση για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως πηγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως λόγο της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτιολογία της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως προέλευση του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτία για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως πηγή για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως λόγος για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως προέλευσης για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα πηγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύον λόγο του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτιολογία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα προέλευση
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα πηγή για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: ως δευτερεύουσα προέλευση για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αιτία
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αιτία για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αιτίες του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αιτίες για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: πηγή
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: πηγή για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: πηγές του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: πηγές για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: λόγος
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: λόγος για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: λόγοι
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: λόγοι για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αιτιολογία του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: αιτιολογία για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: συμβάν ενεργοποίησης για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: προέλευση της
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: προέλευση για το
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: προέλευση του
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: καταγωγές για
+Regex: ''
+Type: PSEUDONEG
+---
+Direction: bidirectional
+Lex: άλλες δυνατότητες του
+Regex: ''
+Type: PSEUDONEG
